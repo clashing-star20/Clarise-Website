@@ -251,12 +251,11 @@ h3{font-size:clamp(22px,3vw,28px);font-weight:700;color:var(--navy-950);margin:0
   transition:background .2s ease, border-color .2s ease;
 }
 .social a:hover{background:var(--coral);border-color:var(--coral)}
-
-/* Footer */
-.site-footer{
-  padding:32px 0 40px;
-  text-align:center;
-  color:var(--muted-light);
+.footer-note{
+  margin-top:48px;
+  padding-top:24px;
+  border-top:1px solid rgba(255,255,255,0.1);
+  color:#8890a8;
   font-size:13.5px;
 }
 

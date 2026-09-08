@@ -192,11 +192,7 @@ h3{font-size:clamp(22px,3vw,28px);font-weight:700;color:var(--navy-950);margin:0
 .contact{
   background:var(--navy-950);
   color:#fff;
-  border-radius:24px;
-  margin:0 24px;
-  max-width:1080px;
-  margin-left:auto;
-  margin-right:auto;
+  padding:72px 0;
 }
 .contact .eyebrow{color:var(--coral)}
 .contact h3{color:#fff}
@@ -229,5 +225,4 @@ h3{font-size:clamp(22px,3vw,28px);font-weight:700;color:var(--navy-950);margin:0
   .site-header .container{flex-wrap:wrap;gap:10px}
   .nav{margin-top:4px;gap:2px}
   .nav a{padding:6px 10px;margin-left:0;font-size:13.5px}
-  .contact{margin:0 12px;border-radius:18px}
 }
